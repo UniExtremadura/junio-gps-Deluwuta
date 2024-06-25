@@ -55,3 +55,9 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration) || super.onSupportNavigateUp()
     }
 }
+
+// Examen Junio.
+// Alumno: Alberto Trejo Segador
+
+// Simulación de la implementación de la Historia de Usuario 01 - Rol: Scrum Master
+// Task: Implementar la funcionalidad
